@@ -1,7 +1,13 @@
 # Estructuras de Datos - Unidad 1
+
+**Protocolo Colaborativo**
+
 **Estudiante:** Rey David Borrego Perez
+
 **Asignatura:** Estructuras de Datos  
+
 **Programa:** Ingeniería del Software  
+
 **Universidad de Cartagena**
 
 ## Contenido
